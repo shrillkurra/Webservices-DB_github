@@ -1,0 +1,44 @@
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.deps.json
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.json
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.dev.json
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csprojResolveAssemblyReference.cache
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csproj.CoreCompileInputs.cache
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfoInputs.cache
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfo.cs
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServices2DB_PoC\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.deps.json
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.json
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.dev.json
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csprojResolveAssemblyReference.cache
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csproj.CoreCompileInputs.cache
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfoInputs.cache
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfo.cs
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.deps.json
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.json
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.dev.json
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csprojResolveAssemblyReference.cache
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csproj.CoreCompileInputs.cache
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfoInputs.cache
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfo.cs
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\Users\Srilu\Dropbox\Plocker\Code Base\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.deps.json
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.json
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.runtimeconfig.dev.json
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\bin\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csprojResolveAssemblyReference.cache
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.csproj.CoreCompileInputs.cache
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfoInputs.cache
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.AssemblyInfo.cs
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.dll
+C:\rit\5th semester\Project\WebServi ces2DB_PoC_v1pm\WebServices2DB_PoC\obj\Debug\netcoreapp2.0\WebServices2DB_PoC.pdb
